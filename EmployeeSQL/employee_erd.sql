@@ -1,38 +1,4 @@
-DROP TABLE IF EXISTS dept_emp;
-DROP TABLE IF EXISTS dept_manager;
-DROP TABLE IF EXISTS salaries;
-DROP TABLE IF EXISTS employees;
-DROP TABLE IF EXISTS titles;
-DROP TABLE IF EXISTS departments;
-
-/*
-SELECT * FROM dept_emp;
-SELECT * FROM dept_manager;
-SELECT * FROM salaries;
-SELECT * FROM employees;
-SELECT * FROM titles;
-SELECT * FROM departments;
-*/
-
-/* PSQL Tool script to import CSV files from absoute path on local drive for MAC. 
-\COPY departments FROM '/Users/thaychansy/Documents/sql-challenge/EmployeeSQL/data/departments.csv' DELIMITER ',' CSV HEADER;
-\COPY titles FROM '/Users/thaychansy/Documents/sql-challenge/EmployeeSQL/data/titles.csv' DELIMITER ',' CSV HEADER;
-\COPY employees FROM '/Users/thaychansy/Documents/sql-challenge/EmployeeSQL/data/employees.csv' DELIMITER ',' CSV HEADER;
-\COPY dept_emp FROM '/Users/thaychansy/Documents/sql-challenge/EmployeeSQL/data/dept_emp.csv' DELIMITER ',' CSV HEADER;
-\COPY dept_manager FROM '/Users/thaychansy/Documents/sql-challenge/EmployeeSQL/data/dept_manager.csv' DELIMITER ',' CSV HEADER;
-\COPY salaries FROM '/Users/thaychansy/Documents/sql-challenge/EmployeeSQL/data/salaries.csv' DELIMITER ',' CSV HEADER;
-*/
-
-/* PSQL Tool script to import CSV files from absoute path on local drive for Windows. 
-\COPY departments FROM 'C:\Users\thayc\Documents\sql-challenge\EmployeeSQL\data\departments.csv' DELIMITER ',' CSV HEADER;
-\COPY titles FROM 'C:\Users\thayc\Documents\sql-challenge\EmployeeSQL\data\titles.csv' DELIMITER ',' CSV HEADER;
-\COPY employees FROM 'C:\Users\thayc\Documents\sql-challenge\EmployeeSQL\data\employees.csv' DELIMITER ',' CSV HEADER;
-\COPY dept_emp FROM 'C:\Users\thayc\Documents\sql-challenge\EmployeeSQL\data\dept_emp.csv' DELIMITER ',' CSV HEADER;
-\COPY dept_manager FROM 'C:\Users\thayc\Documents\sql-challenge\EmployeeSQL\data\dept_manager.csv' DELIMITER ',' CSV HEADER;
-\COPY salaries FROM 'C:\Users\thayc\Documents\sql-challenge\EmployeeSQL\data\salaries.csv' DELIMITER ',' CSV HEADER;
-*/
-
--- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
+﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- Link to schema: https://app.quickdatabasediagrams.com/#/d/yaQ5TG
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
@@ -107,3 +73,4 @@ REFERENCES "employees" ("emp_no");
 
 ALTER TABLE "salaries" ADD CONSTRAINT "fk_salaries_emp_no" FOREIGN KEY("emp_no")
 REFERENCES "employees" ("emp_no");
+
