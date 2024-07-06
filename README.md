@@ -34,6 +34,8 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD.
 
+<img width="440" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/be6b295c-0e49-41ee-8d94-b87e1df0e6f3">
+
 ### Data Engineering
 
 1. Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
@@ -45,6 +47,9 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
    - Be sure to create the tables in the correct order to handle the foreign keys.
 
 2. Import each CSV file into its corresponding SQL table.
+
+<img width="214" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/dcce16a4-d1cd-4b77-b17c-6e8d2ed376ed">
+
 
 ### Data Analysis
 1. List the employee number, last name, first name, sex, and salary of each employee.
