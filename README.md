@@ -48,7 +48,7 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 2. Import each CSV file into its corresponding SQL table.
 
-''' CREATE TABLE "departments" (
+' CREATE TABLE "departments" (
     "dept_no" VARCHAR(10)   NOT NULL,
     "dept_name" VARCHAR(50)   NOT NULL,
     CONSTRAINT "pk_departments" PRIMARY KEY (
