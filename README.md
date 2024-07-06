@@ -9,7 +9,7 @@
 Table of Contents
 <ol>
 <li><a href="#about-the-project">About The Project</a></li>
-<li><a href="#built-with-quickdbd-and-postgre-sql-framework">Built With QuickDBD and Postgre SQL Framework</a></li>
+<li><a href="#built-with-quickdbd-and-postgre-sql-framework">Built With QuickDBD and PostgreSQL Framework</a></li>
 <li><a href="#contributing">Contributing (UC Berkeley Bootcamp Students Only) </a></li>
 <li><a href="#contact">Contact</a></li>
 <li><a href="#acknowledgments">Acknowledgments</a></li>
