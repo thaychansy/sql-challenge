@@ -6,7 +6,7 @@
 
 
 
-  <summary>Table of Contents</summary>
+Table of Contents
 <ol>
 <li><a href="#about-the-project">About The Project</a></li>
 <li><a href="#built-with-quickdbd-and-postgre-sql-framework">Build With QuickDBD and Postgre SQL Framework</a></li>
