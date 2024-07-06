@@ -1,4 +1,4 @@
-<h1  align="center">Python API Challenge</h1>
+<h1  align="center">SQL Challenge</h1>
 <a name="readme-top"></a>
 
 
@@ -49,20 +49,35 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 ### Data Analysis
 1. List the employee number, last name, first name, sex, and salary of each employee.
 
+![image](https://github.com/thaychansy/sql-challenge/assets/161902555/5be0a1ca-2a60-4eb5-a861-35bb30f2d1be)
+
 2. List the first name, last name, and hire date for the employees who were hired in 1986.
+
+![image](https://github.com/thaychansy/sql-challenge/assets/161902555/4fffb453-7d1d-4980-b199-d20298511c36)
 
 3. List the manager of each department along with their department number, department name, employee number, last name, and first name.
 
+![image](https://github.com/thaychansy/sql-challenge/assets/161902555/5394ea41-cf50-431b-8883-64fc70172a10)
+
 4. List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
+
+<img width="380" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/ac44181c-70ce-47b7-ae08-33d310f4bfdf">
 
 5. List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
 
+<img width="217" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/f287544d-acf6-4a96-b80a-82149d073604">
+
 6. List each employee in the Sales department, including their employee number, last name, and first name.
+
+<img width="293" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/3ec81fe9-daef-471f-af28-a46f39552bf1">
 
 7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
-8. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+<img width="295" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/17f3f0a5-095a-43dd-a005-52f777028160">
 
+9. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
+
+<img width="194" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/1d14ba3a-fd6f-4f59-b708-0570665f829a">
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
   
