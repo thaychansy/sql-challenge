@@ -38,7 +38,7 @@ SELECT * FROM departments;
 
 
 CREATE TABLE "departments" (
-    "dept_no" VARCHAR   NOT NULL,
+    "dept_no" VARCHAR(10)   NOT NULL,
     "dept_name" VARCHAR(50)   NOT NULL,
     CONSTRAINT "pk_departments" PRIMARY KEY (
         "dept_no"
