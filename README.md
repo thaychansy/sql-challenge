@@ -183,11 +183,11 @@ Distributed under  GNU General Public Licnese. See `LICENSE.txt` for more inform
 Thay Chansy - [@thaychansy](https://twitter.com/thaychansy) - or thay.chansy@gmail.com
 
 
-Please visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.io/)
+Please visit my Portfolio Page: [thaychansy.github.io](https://thaychansy.github.io/)
 
 
 
-Project Link: [thaychansy/sql-challenge (github.com)](https://github.com/thaychansy/sql-challenge)
+Project Link: [thaychansy/sql-challenge](https://github.com/thaychansy/sql-challenge)
   
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
