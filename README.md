@@ -34,7 +34,7 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD.
 
-<img width="440" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/be6b295c-0e49-41ee-8d94-b87e1df0e6f3">
+<img width="942" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/be6b295c-0e49-41ee-8d94-b87e1df0e6f3">
 
 ### Data Engineering
 
@@ -48,7 +48,7 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 2. Import each CSV file into its corresponding SQL table.
 
-<img width="942" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/cfb78e0b-7010-4f4f-9688-c5e4ea670b86">
+<img width="500" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/cfb78e0b-7010-4f4f-9688-c5e4ea670b86">
 
 
 ### Data Analysis
