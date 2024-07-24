@@ -48,7 +48,7 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 2. Import each CSV file into its corresponding SQL table.
 
-<img width="214" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/cfb78e0b-7010-4f4f-9688-c5e4ea670b86">
+<img width="942" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/cfb78e0b-7010-4f4f-9688-c5e4ea670b86">
 
 
 ### Data Analysis
