@@ -34,7 +34,7 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 
 Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD.
 
-<img width="942" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/be6b295c-0e49-41ee-8d94-b87e1df0e6f3">
+<kbd> <img width="942" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/be6b295c-0e49-41ee-8d94-b87e1df0e6f3"> </kbd>
 
 ### Data Engineering
 
@@ -48,41 +48,41 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 2. Import each CSV file into its corresponding SQL table.
 
-<img width="500" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/cfb78e0b-7010-4f4f-9688-c5e4ea670b86">
+<kbd> <img width="500" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/cfb78e0b-7010-4f4f-9688-c5e4ea670b86"> </kbd>
 
 
 ### Data Analysis
 1. List the employee number, last name, first name, sex, and salary of each employee.
 
-![image](https://github.com/thaychansy/sql-challenge/assets/161902555/5be0a1ca-2a60-4eb5-a861-35bb30f2d1be)
+<kbd> ![image](https://github.com/thaychansy/sql-challenge/assets/161902555/5be0a1ca-2a60-4eb5-a861-35bb30f2d1be) </kbd>
 
 2. List the first name, last name, and hire date for the employees who were hired in 1986.
 
-![image](https://github.com/thaychansy/sql-challenge/assets/161902555/4fffb453-7d1d-4980-b199-d20298511c36)
+<kbd> ![image](https://github.com/thaychansy/sql-challenge/assets/161902555/4fffb453-7d1d-4980-b199-d20298511c36) </kbd>
 
 3. List the manager of each department along with their department number, department name, employee number, last name, and first name.
 
-![image](https://github.com/thaychansy/sql-challenge/assets/161902555/5394ea41-cf50-431b-8883-64fc70172a10)
+<kbd> ![image](https://github.com/thaychansy/sql-challenge/assets/161902555/5394ea41-cf50-431b-8883-64fc70172a10) </kbd>
 
 4. List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
 
-<img width="380" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/ac44181c-70ce-47b7-ae08-33d310f4bfdf">
+<kbd> <img width="380" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/ac44181c-70ce-47b7-ae08-33d310f4bfdf"> </kbd>
 
 5. List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
 
-<img width="217" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/f287544d-acf6-4a96-b80a-82149d073604">
+<kbd> <img width="217" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/f287544d-acf6-4a96-b80a-82149d073604"> </kbd>
 
 6. List each employee in the Sales department, including their employee number, last name, and first name.
 
-<img width="293" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/3ec81fe9-daef-471f-af28-a46f39552bf1">
+<kbd> <img width="293" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/3ec81fe9-daef-471f-af28-a46f39552bf1"> </kbd>
 
 7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
-<img width="295" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/17f3f0a5-095a-43dd-a005-52f777028160">
+<kbd> <img width="295" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/17f3f0a5-095a-43dd-a005-52f777028160"> </kbd>
 
 9. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
-<img width="194" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/1d14ba3a-fd6f-4f59-b708-0570665f829a">
+<kbd> <img width="194" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/1d14ba3a-fd6f-4f59-b708-0570665f829a"> </kbd>
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
   
