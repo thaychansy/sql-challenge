@@ -66,23 +66,23 @@ Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tab
 
 4. List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
 
-<kbd> <img width="380" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/ac44181c-70ce-47b7-ae08-33d310f4bfdf"> </kbd>
+<kbd> <img width="500" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/ac44181c-70ce-47b7-ae08-33d310f4bfdf"> </kbd>
 
 5. List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
 
-<kbd> <img width="217" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/f287544d-acf6-4a96-b80a-82149d073604"> </kbd>
+<kbd> <img width="500" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/f287544d-acf6-4a96-b80a-82149d073604"> </kbd>
 
 6. List each employee in the Sales department, including their employee number, last name, and first name.
 
-<kbd> <img width="293" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/3ec81fe9-daef-471f-af28-a46f39552bf1"> </kbd>
+<kbd> <img width="500" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/3ec81fe9-daef-471f-af28-a46f39552bf1"> </kbd>
 
 7. List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
-<kbd> <img width="295" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/17f3f0a5-095a-43dd-a005-52f777028160"> </kbd>
+<kbd> <img width="500" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/17f3f0a5-095a-43dd-a005-52f777028160"> </kbd>
 
 9. List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
-<kbd> <img width="194" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/1d14ba3a-fd6f-4f59-b708-0570665f829a"> </kbd>
+<kbd> <img width="500" alt="image" src="https://github.com/thaychansy/sql-challenge/assets/161902555/1d14ba3a-fd6f-4f59-b708-0570665f829a"> </kbd>
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
   
